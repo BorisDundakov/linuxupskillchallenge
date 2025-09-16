@@ -1,0 +1,17 @@
+1. lspci
+
+- list all PCI devices:
+    * prints ("lists") detailed information about all PCI buses and devices in the system.
+    * high-speed computer bus that connects peripheral devices like network/sound cards to a computer's motherboard
+    * a computer bus is a shared electronic pathway that transfer data between internal computer componets like CPU and memory
+    * PCI - Periphereal Component Interconnect
+    * PCI vs PCI Express --> 
+    * PCI Express connects USB Hubs, Memory Controllers
+
+
+2. lsblk
+
+- a hardware device, (e.x. SSD) that stores and accesses data in fixed-size chunks called blocks
+- a block device is a file that refers to a device (/dev/sd?)
+
+
