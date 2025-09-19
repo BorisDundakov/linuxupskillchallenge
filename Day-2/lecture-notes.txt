@@ -1,0 +1,30 @@
+RTFM - Read The Fucking Manual
+* create a habit to manually check how a command works before googling/asking AI
+
+
+* cp command:
+	- turns out it has a lot more options than expected:
+		--update == to only copy the file if the version is different(updated)
+		--backup == make a backup of each existing destination file
+
+
+* tldr command (optional) - provides a shorter, more concise manual
+
+- not all commands have a manual, some work with 'help'
+
+
+- man hier --> manual of the linux hierarchy; needs to be further studied
+
+
+- by converion, files starting with a character of "." are considered hidden; 'ls' ignores them by default
+
+
+example of a commands accepting switches:
+
+	* use 'ls -ltra' instead of 'ls -l -t -r -a'
+
+
+move files with 'mv' command, not with copy
+
+
+pushd: changes to a new dir and saves the old dir in the histrory for popd laterx
