@@ -1,0 +1,5 @@
+# midnight commander --> browsable GUI when ssh into your server
+
+# navigation --> arrow_keys, enter, mouse
+# F3 --> read file content
+
