@@ -1,0 +1,6 @@
+Commands:
+PS1=What your terminal will look like before you type a command
+PS2=Shown when a command is incomplete and Bash is waiting for more input
+PS3=Used only inside the select loop (interactive menus)
+PS4=Only when debugging is enabled
+

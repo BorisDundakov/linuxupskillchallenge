@@ -1,0 +1,24 @@
+source: https://www.thegeekstuff.com/2010/02/unix-less-command-10-tips-for-effective-navigation/
+
+Forward Search:
+	* / --> search for pattern which will take you to the next occurance
+	* n --> for next match
+
+
+Backward Search:
+	* ? --> search for pattern which will take you to the PREVIOUS occurance
+	* n --> next match backwards
+	* N --> next match forwards 
+
+
+
+Use the following screen navigation commands while viewing large log files.
+
+    CTRL+F – forward one window
+    CTRL+B – backward one window
+    CTRL+D – forward half window
+    CTRL+U – backward half window
+    G – go to the end of file
+    g – go to the start of file
+    10j – 10 lines forward.
+    10k – 10 lines backward.
