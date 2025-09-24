@@ -1,0 +1,9 @@
+* apt in Linux Mint is actually a wrapper of apt-get
+
+apt-get is old, mainly used prior ubuntu 16.04
+
+apt includes fewer, lower-level commands, because they are not neccessary for the average linux user
+
+apt gives you enough to imstall, update, remove and search packages, but nothing more
+
+apt-get upgrade cannot install new packages on its own, cannot upgrade kernel
