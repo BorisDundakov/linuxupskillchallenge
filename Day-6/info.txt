@@ -1,0 +1,25 @@
+
+    There are two “modes” - with very different behaviours
+    Little or nothing onscreen lets you know which mode you’re currently in!
+
+The two modes are “normal mode” and “insert mode”, and as a beginner, simply remember:
+
+"Press Esc twice or more to return to normal mode"
+
+The “normal mode” is used to input commands, and “insert mode” for writing text - similar to a regular text editor’s default behaviour.
+
+
+---
+
+h - one symbol backwards
+j - next row
+k - previous row
+u - undo last action
+
+33dd -- delete next 33 lines
+G - get to the bottom of the file
+gg - get to the top of the file
+:w -- save but stay in VIM
+:wq -- write and quit
+
+#TODO: Run through vimtutor daily, starting from later today
